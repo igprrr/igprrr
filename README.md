@@ -1,6 +1,6 @@
 ### Hi there, I'm Igor 👋
 
-#### Welcome to my profile, I'm a computer student, studying programming and taking courses in the area.
+Welcome to my profile, I'm a computer student, studying programming and taking courses in the area.
 
 Follow me:
 
