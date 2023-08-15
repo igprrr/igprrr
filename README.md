@@ -10,7 +10,7 @@ Follow me:
 ![Igor Melo GitHub stats](https://github-readme-stats.vercel.app/api?username=igprrr&show_icons=true&theme=onedark)
 
 ## Tecnologias que utilizo
-<div style="display: inline_block"><br/>
+<div style="display: inline_block">
   <img align="center" alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
