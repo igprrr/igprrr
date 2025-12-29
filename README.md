@@ -1,6 +1,6 @@
 ### Hi there, I'm Igor 👋
 
-Welcome to my profile, I'm a computer student, studying programming and taking courses in the area.
+Welcome to my profile. I am an information analyst with experience in full stack web programming, and I am always studying various areas to further expand my knowledge.
 
 Follow me:
 
