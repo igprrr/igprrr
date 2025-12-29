@@ -4,10 +4,9 @@ Welcome to my profile. I am an information analyst with experience in full stack
 
 Follow me:
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/igprrr)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/igorwmelo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-melo-b21b42121)
 
-![Igor Melo GitHub stats](https://github-readme-stats.vercel.app/api?username=igprrr&show_icons=true&theme=onedark)
 
 ## Tecnologias que utilizo
 <div style="display: inline_block">
